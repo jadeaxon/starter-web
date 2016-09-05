@@ -12,7 +12,7 @@ Sample website with plenty of files for demos.
 
 ## Deployment
 
-Not sure.
+Not sure.  Making a change to commit.
 
 ## How to Contribute
 
