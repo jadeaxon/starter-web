@@ -13,6 +13,8 @@ Sample website with plenty of files for demos.
 ## Deployment
 
 Not sure.  Making a change to commit.
+Staged but not committed change.
+Unstaged change.
 
 ## How to Contribute
 
