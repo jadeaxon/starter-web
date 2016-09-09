@@ -10,6 +10,7 @@ This is from the Git Complete course on Udemy.
 
 Sample website with plenty of files for demos.
 One thing we'll do is a rebase merge.
+We'll use git stash.
 
 ## Deployment
 
